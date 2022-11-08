@@ -1,0 +1,11 @@
+{
+  "ping": {
+    "methods": [
+      "HEAD"
+    ],
+    "patterns": [
+      ""
+    ],
+    "documentation": "https://www.opensearch.org/guide/en/elasticsearch/reference/current/index.html"
+  }
+}
